@@ -1,0 +1,57 @@
+body{
+	background-color:  #F1C40F;
+}
+
+.jumbotron{
+	background-color: #3396D8;
+}
+
+.jumbotron h2{
+	text-align: center;
+}
+
+.btn-default, .btn-default:focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default{
+	background-color:  #ED5565;
+	border-color: #ED5565;
+	
+}
+
+header{
+	width: 100%;
+}
+
+header img{
+	width: 100%;
+}
+
+.btn-default:hover{
+	background-color:  #DA4453;
+	border-color: #DA4453;
+}
+
+.btn-warning{
+	background-color: #F9690E;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color:  #f1c40f;
+}
+
+.message{
+	margin : 10px;
+}
+
+.navbar, .navbar-inverse{
+	background-color:rgb(36,114,166);
+	border-color: rgb(36,114,166);
+}
+
+.btn-group-vertical{
+	width:50%;
+}
+
+#text-accueil{
+	font-size: 2em;
+	text-align: center;
+	margin: 5%;
+}
